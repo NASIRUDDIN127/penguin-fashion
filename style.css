@@ -1,0 +1,29 @@
+.panda-card{
+    border: 0;
+    border-radius: 5;
+}
+.image-bg{
+    background-color: rgba(243, 239, 239, 0.774);}
+.panda-card-footer{
+    border: 0;
+}
+
+.back-color{
+background-color: rgb(223, 203, 203);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{width: 100%;}
+.name-highlight{
+    color: orange;
+}
+@media (max-width:992px){
+    .half-width{
+        float: none;
+    }
+}
+
