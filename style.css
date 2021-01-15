@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+
 .panda-card{
     border: 0;
     border-radius: 5;
